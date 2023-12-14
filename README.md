@@ -13,46 +13,26 @@ The LTPAQ is an interviewer-administered recall questionnaire used to estimate r
 # Installation
 Brief instructions on how to install and set up the project.
 
-Clone the repository to your local machine:
-
-bash
-
-git clone https://github.com/micoralita/LTPAQ_MATLAB_code.git
-Open MATLAB and navigate to the cloned directory.
-
-Run the main script:
-
-matlab
-Copy code
-run LTPAQ_main_script.m
-This will initiate the LTPAQ tool.
-
-
-
-# Installation
-
-Brief instructions on how to install and set up the project.
-
-git clone https://github.com/micoralita/LTPAQ_MATLAB_code.git
-
+1. Clone the repository to your local machine:
 
 ```bash
-npm install
 
+git clone https://github.com/micoralita/LTPAQ_MATLAB_code.git
 
+```
+2. Open MATLAB and navigate to the cloned directory.
 
+3. Run the main script:
+
+```matlab
+
+run LTPAQ_main_script.m
+
+```
+This will initiate the LTPAQ tool.
 
 Examples
 Explore examples demonstrating the usage of the LTPAQ tool with sample data. This can be achieved by running the tool on provided test data and showcasing the resulting output.
-
-```
-# Installation
-Clone the repository to your local machine:
-
-bash
-Copy code
-git clone https://github.com/micoralita/LTPAQ_MATLAB_code.git
-Open MATLAB and navigate to the cloned directory.
 
 
 # Usage
