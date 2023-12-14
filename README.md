@@ -1,6 +1,7 @@
 ## LTPAQ_MATLAB_code
 We developed open-source MATLAB code to simplify data handling  when using the Lifetime Total Physical Activity Questionnaire (LTPAQ). 
 
+
 # Motivation:
 The LTPAQ is an interviewer-administered recall questionnaire used to estimate relatively regular physical activity performed from childhood to the present across all domains (occupational, household, recreational, and commuting) and parameters of PA (frequency, duration, and intensity). Nevertheless, concerning its analysis, the authors describe a specific code that lacks comprehensiveness, hindering its implementation by other researchers or health professionals with limited programming or software expertise. For this purpose, we aimed to develop open-source MATLAB code to simplify data handling and enhance comparability between studies using the LTPAQ. This code automates data processing, ensuring efficiency and facilitating adaptability. Moreover, it interacts seamlessly with Excel sheets, providing a user-friendly interface for data input, storage, and organisation.
 
@@ -9,23 +10,31 @@ The LTPAQ is an interviewer-administered recall questionnaire used to estimate r
 <p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/es/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="40" height="40"/> </a> </p>
 
 
+# Installation
+Brief instructions on how to install and set up the project.
 
-<h3 align="center">We developed open-source MATLAB code to simplify data handling when using the Lifetime Total Physical Activity Questionnaire.</h3>
+Clone the repository to your local machine:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+bash
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> </p>
+git clone https://github.com/micoralita/LTPAQ_MATLAB_code.git
+Open MATLAB and navigate to the cloned directory.
 
+Run the main script:
 
+matlab
+Copy code
+run LTPAQ_main_script.m
+This will initiate the LTPAQ tool.
 
 
 
 # Installation
 
-Brief instructions on how to install and set up the project. Include any dependencies that need to be installed.
+Brief instructions on how to install and set up the project.
+
+git clone https://github.com/micoralita/LTPAQ_MATLAB_code.git
+
 
 ```bash
 npm install
