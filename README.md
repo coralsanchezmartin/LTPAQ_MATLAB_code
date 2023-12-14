@@ -7,7 +7,22 @@ The LTPAQ is an interviewer-administered recall questionnaire used to estimate r
 
 # Languages and Tools:
 <p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="40" height="40"/> </a> </p>
 
+# Installation
+
+Brief instructions on how to install and set up the project. Include any dependencies that need to be installed.
+
+```bash
+npm install
+
+
+
+
+Examples
+Explore examples demonstrating the usage of the LTPAQ tool with sample data. This can be achieved by running the tool on provided test data and showcasing the resulting output.
+
+```
 # Installation
 Clone the repository to your local machine:
 
@@ -46,16 +61,4 @@ Follow the on-screen instructions to complete the analysis.
 By following these steps, you ensure that your data is appropriately structured and compatible with the LTPAQ tool. If you encounter any issues or have specific requirements, refer to the code documentation or reach out to the project contributors for assistance.
 
 
-# Installation
-
-Brief instructions on how to install and set up the project. Include any dependencies that need to be installed.
-
-```bash
-npm install
-
-
-
-
-Examples
-Explore examples demonstrating the usage of the LTPAQ tool with sample data. This can be achieved by running the tool on provided test data and showcasing the resulting output.
-
+ddd
