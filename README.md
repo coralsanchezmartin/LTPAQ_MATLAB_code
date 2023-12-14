@@ -1,4 +1,4 @@
-# LTPAQ_MATLAB_code
+## LTPAQ_MATLAB_code
 We developed open-source MATLAB code to simplify data handling  when using the Lifetime Total Physical Activity Questionnaire (LTPAQ). 
 
 <h3 align="left">Motivation:</h3>
@@ -17,7 +17,7 @@ git clone https://github.com/micoralita/LTPAQ_MATLAB_code.git
 Open MATLAB and navigate to the cloned directory.
 
 
-Usage
+# Usage
 To effectively use this LTPAQ analysis tool, follow the steps outlined below.
 
 Transcript Data Handling:
