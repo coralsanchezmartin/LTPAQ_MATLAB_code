@@ -2,11 +2,11 @@
 We developed open-source MATLAB code to simplify data handling  when using the Lifetime Total Physical Activity Questionnaire (LTPAQ). 
 
 
-## Motivation:
+## Motivation
 The LTPAQ is an interviewer-administered recall questionnaire used to estimate relatively regular physical activity performed from childhood to the present across all domains (occupational, household, recreational, and commuting) and parameters of PA (frequency, duration, and intensity). Nevertheless, concerning its analysis, the authors describe a specific code that lacks comprehensiveness, hindering its implementation by other researchers or health professionals with limited programming or software expertise. For this purpose, we aimed to develop open-source MATLAB code to simplify data handling and enhance comparability between studies using the LTPAQ. This code automates data processing, ensuring efficiency and facilitating adaptability. Moreover, it interacts seamlessly with Excel sheets, providing a user-friendly interface for data input, storage, and organisation.
 
 
-## Languages and Tools:
+## Languages and Tools
 <p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/es/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="40" height="40"/> </a> </p>
 
 
