@@ -3,11 +3,20 @@ We developed open-source MATLAB code to simplify data handling  when using the L
 
 
 ## Motivation
-The LTPAQ is an interviewer-administered recall questionnaire used to estimate relatively regular physical activity performed from childhood to the present across all domains (occupational, household, recreational, and commuting) and parameters of PA (frequency, duration, and intensity). Nevertheless, concerning its analysis, the authors describe a specific code that lacks comprehensiveness, hindering its implementation by other researchers or health professionals with limited programming or software expertise. For this purpose, we aimed to develop open-source MATLAB code to simplify data handling and enhance comparability between studies using the LTPAQ. This code automates data processing, ensuring efficiency and facilitating adaptability. Moreover, it interacts seamlessly with Excel sheets, providing a user-friendly interface for data input, storage, and organisation.
+The LTPAQ is an interviewer-administered recall questionnaire used to estimate relatively regular physical activity performed from childhood to the present across all domains (occupational, household, recreational, and commuting) and parameters of PA (frequency, duration, and intensity). 
+Nevertheless, concerning its analysis, the authors describe a specific code that lacks comprehensiveness, hindering its implementation by other researchers or health professionals with limited programming or software expertise.
+Our goal is to offer open-source MATLAB code that simplifies data handling, enhances comparability between studies and provides an efficient, adaptable solution. The code seamlessly interacts with Excel sheets, offering a user-friendly interface for data input, storage, and organization.
 
 
 ## Languages and Tools
-<p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/es/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="40" height="40"/> </a> </p>
+<p align="center"> 
+   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
+   </a>
+   <a href="https://www.microsoft.com/es/microsoft-365/excel" target="_blank" rel="noreferrer"> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="40" height="40"/> 
+   </a> 
+</p>
 
 
 ## Installation
@@ -69,8 +78,11 @@ To utilize the LTPAQ tool, follow these steps:
 2. Run the main script using the following command:
 
    ```matlab
+   
    run LTPAQ_main_script.m
-
+   
+   ```
+   
 This will initiate the LTPAQ tool, allowing you to proceed with the analysis of your questionnaire transcript data. Ensure that you have set up your questionnaire data and MET equivalences data as outlined in the previous sections for optimal results.
 
 By adhering to these instructions, you ensure that the LTPAQ tool processes your data accurately and efficiently.
