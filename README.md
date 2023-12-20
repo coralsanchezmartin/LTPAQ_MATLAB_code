@@ -48,7 +48,12 @@ To initialize the LTPAQ tool with your questionnaire transcript data, follow the
 
 Note: The headers in DB_LTPAQ.xlsx are locked with the password "ltpaq" to maintain a consistent structure. It is crucial to ensure that your data adheres to this predefined structure for seamless processing.
 
-3. Make sure to replace the sample data with your own, maintaining the structure and format outlined in the locked headers.
+3. Special consideration for "Other transportation" option:
+
+* When the option "Other transportation" is selected in the questionnaire, a manual entry is required for the corresponding METs value.
+* Locate the relevant cell in the database spreadsheet (DB_LTPAQ.xlsx) designated for manual entry and input the corresponding METs value.
+
+4. Make sure to replace the sample data with your own, maintaining the structure and format outlined in the locked headers.
 
 By adhering to these instructions, you ensure that the LTPAQ tool processes your data accurately and efficiently.
 
