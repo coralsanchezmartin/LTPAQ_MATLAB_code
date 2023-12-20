@@ -42,18 +42,24 @@ To effectively use this LTPAQ analysis tool, follow the steps outlined below.
 
 To initialize the LTPAQ tool with your questionnaire transcript data, follow these steps:
 
-1. Locate the designated Excel spreadsheet: DB_LTPAQ.xlsx in the project directory.
+1. Locate the designated Excel spreadsheet: **DB_LTPAQ.xlsx** in the project directory.
 
 2. Input your questionnaire transcript data into this spreadsheet. The file already includes three subjects with sample data as an illustrative example.
 
-Note: The headers in DB_LTPAQ.xlsx are locked with the password "ltpaq" to maintain a consistent structure. It is crucial to ensure that your data adheres to this predefined structure for seamless processing.
+**Note**: The headers in **DB_LTPAQ.xlsx** are locked with the password "ltpaq" to maintain a consistent structure. It is crucial to ensure that your data adheres to this predefined structure for seamless processing.
 
 3. Special consideration for "Other transportation" option:
 
 * When the option "Other transportation" is selected in the questionnaire, a manual entry is required for the corresponding METs value.
-* Locate the relevant cell in the database spreadsheet (DB_LTPAQ.xlsx) designated for manual entry and input the corresponding METs value.
+* Locate the relevant cell in the database spreadsheet (**DB_LTPAQ.xlsx**) designated for manual entry and input the corresponding METs value.
 
 4. Make sure to replace the sample data with your own, maintaining the structure and format outlined in the locked headers.
+
+
+### Importing MET Equivalences Data:
+
+To conduct accurate analyses, MET equivalences data is crucial. Import the corresponding information into two separate Excel files: **job_list.xlsx** and **exercise_list.xlsx**. The provided lists are merely examples, so customize the MET equivalences data to align with the activities covered in your questionnaire and the specific needs of your study.
+
 
 By adhering to these instructions, you ensure that the LTPAQ tool processes your data accurately and efficiently.
 
@@ -61,13 +67,11 @@ By adhering to these instructions, you ensure that the LTPAQ tool processes your
 
 
 
-Special Consideration for "Other Transportation" Option:
-When the option "Other Transportation" is selected in the questionnaire, a manual entry is required for the corresponding METs value.
-Locate the relevant cell in the database spreadsheet (db_ltpaq.xlsx) designated for manual entry and input the corresponding METs value.
 
-### Importing MET Equivalences Data:
-MET equivalences data is required for the analysis. Import the corresponding information into two separate Excel files: job_list.xlsx and exercise_list.xlsx.
-The given list is just an example. Customize the MET equivalences data according to your study's needs and the specific activities covered in your questionnaire.
+
+
+
+
 
 ### Running the LTPAQ Tool:
 Open MATLAB and navigate to the directory where the LTPAQ code is stored.
