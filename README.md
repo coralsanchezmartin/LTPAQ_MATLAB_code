@@ -74,9 +74,9 @@ To initialize the LTPAQ tool with your questionnaire transcript data, follow the
 4. Make sure to replace the sample data with your own, maintaining the structure and format outlined in the locked headers.
 
 
-### Importing MET Equivalences Data:
+### Importing METs Equivalences Data:
 
-To conduct accurate analyses, MET equivalences data is crucial. Import the corresponding information into two separate Excel files: **job_list.xlsx** and **exercise_list.xlsx**. The provided lists are merely examples, so customize the MET equivalences data to align with the activities covered in your questionnaire and the specific needs of your study.
+To conduct accurate analyses, METs equivalences data is crucial. Import the corresponding information into two separate Excel files: **job_list.xlsx** and **exercise_list.xlsx**. The provided lists are merely examples, so customize the METs equivalences data to align with the activities covered in your questionnaire and the specific needs of your study.
 
 ### Running the LTPAQ Tool:
 
