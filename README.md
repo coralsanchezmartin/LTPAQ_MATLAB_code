@@ -58,8 +58,8 @@ To initialize the LTPAQ tool with your questionnaire transcript data, follow the
 
 3. Special consideration for "Other transportation" option:
 
-   * When the option "Other transportation" is selected in the questionnaire, a manual entry is required for the corresponding METs value.
-   * Locate the relevant cell in the database spreadsheet (**DB_LTPAQ.xlsx**) designated for manual entry and input the corresponding METs value.
+  * When the option "Other transportation" is selected in the questionnaire, a manual entry is required for the corresponding METs value.
+  * Locate the relevant cell in the database spreadsheet (**DB_LTPAQ.xlsx**) designated for manual entry and input the corresponding METs value.
 
 4. Make sure to replace the sample data with your own, maintaining the structure and format outlined in the locked headers.
 
