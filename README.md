@@ -1,5 +1,5 @@
 # LTPAQ_MATLAB_code
-We developed open-source MATLAB code to simplify data handling  when using the Lifetime Total Physical Activity Questionnaire (LTPAQ). 
+We developed open-source MATLAB code to simplify data handling  when using the Lifetime Total Physical Activity Questionnaire (LTPAQ).
 
 
 ## Motivation
@@ -38,6 +38,7 @@ git clone https://github.com/micoralita/LTPAQ_MATLAB_code.git
 run LTPAQ_main_script.m
 
 ```
+
 This will initiate the LTPAQ tool.
 
 
@@ -77,11 +78,11 @@ To utilize the LTPAQ tool, follow these steps:
 
 2. Run the main script using the following command:
 
-   ```matlab
+```matlab
+
+run LTPAQ_main_script.m
    
-   run LTPAQ_main_script.m
-   
-   ```
+```
    
 This will initiate the LTPAQ tool, allowing you to proceed with the analysis of your questionnaire transcript data. Ensure that you have set up your questionnaire data and MET equivalences data as outlined in the previous sections for optimal results.
 
