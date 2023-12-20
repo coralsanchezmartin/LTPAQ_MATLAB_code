@@ -60,32 +60,19 @@ To initialize the LTPAQ tool with your questionnaire transcript data, follow the
 
 To conduct accurate analyses, MET equivalences data is crucial. Import the corresponding information into two separate Excel files: **job_list.xlsx** and **exercise_list.xlsx**. The provided lists are merely examples, so customize the MET equivalences data to align with the activities covered in your questionnaire and the specific needs of your study.
 
+### Running the LTPAQ Tool:
+
+To utilize the LTPAQ tool, follow these steps:
+
+1. Open MATLAB and navigate to the directory where the LTPAQ code is stored.
+
+2. Run the main script using the following command:
+
+   ```matlab
+   run LTPAQ_main_script.m
+
+This will initiate the LTPAQ tool, allowing you to proceed with the analysis of your questionnaire transcript data. Ensure that you have set up your questionnaire data and MET equivalences data as outlined in the previous sections for optimal results.
 
 By adhering to these instructions, you ensure that the LTPAQ tool processes your data accurately and efficiently.
 
 
-
-
-
-
-
-
-
-
-
-### Running the LTPAQ Tool:
-Open MATLAB and navigate to the directory where the LTPAQ code is stored.
-
-Run the main script:
-
-matlab
-Copy code
-run LTPAQ_main_script.m
-Interacting with the Tool:
-
-The tool will prompt you to input the necessary files, including the questionnaire transcript data and MET equivalences data.
-Follow the on-screen instructions to complete the analysis.
-By following these steps, you ensure that your data is appropriately structured and compatible with the LTPAQ tool. If you encounter any issues or have specific requirements, refer to the code documentation or reach out to the project contributors for assistance.
-
-
-ddd
