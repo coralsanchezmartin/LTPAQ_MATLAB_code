@@ -39,8 +39,23 @@ Explore the functionality of the LTPAQ tool by running the sample data. Utilize 
 To effectively use this LTPAQ analysis tool, follow the steps outlined below.
 
 ### Transcript Data Handling:
-Input your questionnaire transcript data into the designated Excel spreadsheet: db_ltpaq.xlsx. Now it contains three subjects with invented data as an example.
-Note: The headers in db_ltpaq.xlsx are locked with the password "ltpaq" to maintain a consistent structure. Ensure that your data adheres to this structure for seamless processing.
+
+To initialize the LTPAQ tool with your questionnaire transcript data, follow these steps:
+
+1. Locate the designated Excel spreadsheet: DB_LTPAQ.xlsx in the project directory.
+
+2. Input your questionnaire transcript data into this spreadsheet. The file already includes three subjects with sample data as an illustrative example.
+
+Note: The headers in DB_LTPAQ.xlsx are locked with the password "ltpaq" to maintain a consistent structure. It is crucial to ensure that your data adheres to this predefined structure for seamless processing.
+
+3. Make sure to replace the sample data with your own, maintaining the structure and format outlined in the locked headers.
+
+By adhering to these instructions, you ensure that the LTPAQ tool processes your data accurately and efficiently.
+
+
+
+
+
 Special Consideration for "Other Transportation" Option:
 When the option "Other Transportation" is selected in the questionnaire, a manual entry is required for the corresponding METs value.
 Locate the relevant cell in the database spreadsheet (db_ltpaq.xlsx) designated for manual entry and input the corresponding METs value.
