@@ -31,8 +31,8 @@ run LTPAQ_main_script.m
 ```
 This will initiate the LTPAQ tool.
 
-Examples
-Explore examples demonstrating the usage of the LTPAQ tool with sample data. This can be achieved by running the tool on provided test data and showcasing the resulting output.
+
+Explore the functionality of the LTPAQ tool by running the sample data. Utilize the provided test data to demonstrate the tool's capabilities and showcase the output.
 
 
 ## Usage
