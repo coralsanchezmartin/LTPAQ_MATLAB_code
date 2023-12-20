@@ -91,7 +91,7 @@ To utilize the LTPAQ tool, follow these steps:
 run LTPAQ_main_script.m 
 ```
 
-This will initiate the LTPAQ tool, allowing you to proceed with the analysis of your questionnaire transcript data. Ensure that you have set up your questionnaire data and MET equivalences data as outlined in the previous sections for optimal results.
+This will initiate the LTPAQ tool, allowing you to proceed with the analysis of your questionnaire transcript data. Ensure that you have set up your questionnaire data and METs equivalences data as outlined in the previous sections for optimal results.
 
 
 
