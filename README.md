@@ -1,7 +1,7 @@
 # LTPAQ_MATLAB_code
 We developed open-source MATLAB code to simplify data handling  when using the Lifetime Total Physical Activity Questionnaire (LTPAQ).
 
-# Table of Contents
+## Table of Contents
 
 - [LTPAQ_MATLAB_code](#ltpaq_matlab_code)
   - [Motivation](#motivation)
