@@ -27,8 +27,6 @@ The LTPAQ is an interviewer-administered recall questionnaire used to estimate r
    </a> 
      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="git" width="60" height="60"/> 
-       ![1color-orange-lightbg@2x](https://github.com/coralsanchezmartin/LTPAQ_MATLAB_code/assets/74832205/c35617fb-f469-4a40-be1d-e0b38a2460f4)
-
    </a> 
 </p>
 
