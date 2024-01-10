@@ -6,6 +6,7 @@ We developed open-source MATLAB code to simplify data handling  when using the L
 - [LTPAQ_MATLAB_code](#ltpaq_matlab_code)
   - [Motivation](#motivation)
   - [Languages and Tools](#languages-and-tools)
+  - [Previous requirements](#previous-requirements)
   - [Installation](#installation)
   - [Usage](#usage)
     - [Transcript Data Handling](#transcript-data-handling)
