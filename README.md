@@ -19,20 +19,17 @@ The LTPAQ is an interviewer-administered recall questionnaire used to estimate r
 
 ## Languages and Tools
 
+## Languages & Tools
+
 - **MATLAB:**
-  <a href="https://www.mathworks.com/">
-    <img src="https://www.mathworks.com/company/newsroom/mathworks-logo-square.png" alt="MATLAB Logo" width="100">
-  </a>
+  [![MATLAB Logo](https://www.mathworks.com/company/newsroom/mathworks-logo-square.png)](https://www.mathworks.com/)
 
 - **Excel:**
-  <a href="https://products.office.com/excel">
-    <img src="https://logoeps.com/wp-content/uploads/2013/03/microsoft-excel-logo-vector.png" alt="Excel Logo" width="100">
-  </a>
+  [![Excel Logo](https://logoeps.com/wp-content/uploads/2013/03/microsoft-excel-logo-vector.png)](https://products.office.com/excel)
 
 - **Git:**
-  <a href="https://git-scm.com/">
-    <img src="https://git-scm.com/images/logos/git-logo.png" alt="Git Logo" width="100">
-  </a>
+  [![Git Logo](https://git-scm.com/images/logos/git-logo.png)](https://git-scm.com/)
+
 
 
 
