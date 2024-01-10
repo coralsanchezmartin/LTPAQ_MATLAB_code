@@ -60,7 +60,7 @@ cd desktop
 
 ```
 
-3. Once you’ve navigated to the desired location, clone the repository to your local machine:
+3. Once you’ve navigated to the desired location, clone the repository to your local machine, typing “git clone” followed by the link of the Github repository:
 
 ```bash
 
