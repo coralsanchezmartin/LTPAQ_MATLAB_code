@@ -25,6 +25,9 @@ The LTPAQ is an interviewer-administered recall questionnaire used to estimate r
    <a href="https://www.microsoft.com/es/microsoft-365/excel" target="_blank" rel="noreferrer"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="40" height="40"/> 
    </a> 
+     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="git" width="40" height="40"/> 
+   </a> 
 </p>
 
 ## Previous requirements
