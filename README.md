@@ -26,20 +26,44 @@ The LTPAQ is an interviewer-administered recall questionnaire used to estimate r
    </a> 
 </p>
 
+## Previous requirements
+Ensure the following prerequisites are met before proceeding:
 
-## Installation
+1. Install Git — [this link provides tutorials for Mac, Windows, and Linux users.](https://gist.github.com/derhuerst/1b15ff4652a867391f03)
+
+2. Have a terminal emulator installed. For Mac users, the "Terminal" application should be pre-installed by default. Windows users will have either "Windows PowerShell" or "Command Prompt" available.
+
+3. Install Matlab.
+
+Once you have met these requirements, you are ready to start. The first step is to clone the git repository.
+
+
+## Clone the git repository
 Brief instructions on how to install and set up the project.
 
-1. Clone the repository to your local machine:
+1. Open the terminal emulator on your desktop.
+
+2. Change the directory to the place you’d like the files to be stored. You can do this by entering “cd” in the command line followed by the file path:
+
+```bash
+
+cd desktop
+
+```
+
+3. Once you’ve navigated to the desired location, clone the repository to your local machine:
 
 ```bash
 
 git clone https://github.com/micoralita/LTPAQ_MATLAB_code.git
 
 ```
-2. Open MATLAB and navigate to the cloned directory.
 
-3. Run the main script:
+4. Once you submit the command, a folder will appear in the location you specified.
+
+5. Open MATLAB and navigate to the cloned directory.
+
+6. Run the main script:
 
 ```matlab
 
