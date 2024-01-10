@@ -42,7 +42,7 @@ Ensure the following prerequisites are met before proceeding:
 
 2. Have a terminal emulator installed. For Mac users, the "Terminal" application should be pre-installed by default. Windows users will have either "Windows PowerShell" or "Command Prompt" available.
 
-3. Install Matlab.
+3. Install [Matlab.](https://www.mathworks.com/)
 
 Once you have met these requirements, you are ready to start. The first step is to clone the git repository.
 
