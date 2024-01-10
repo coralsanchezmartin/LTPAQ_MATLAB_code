@@ -35,17 +35,17 @@ The LTPAQ is an interviewer-administered recall questionnaire used to estimate r
 
 - **MATLAB:**
   <a href="https://www.mathworks.com/">
-    <img src="https://www.mathworks.com/company/newsroom/mathworks-logo-square.png" alt="MATLAB Logo" width="40" height="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB Logo" width="40" height="40">
   </a>
 
 - **Excel:**
   <a href="https://products.office.com/excel">
-    <img src="https://logoeps.com/wp-content/uploads/2013/03/microsoft-excel-logo-vector.png" alt="Excel Logo" width="40" height="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel Logo" width="40" height="40">
   </a>
 
 - **Git:**
   <a href="https://git-scm.com/">
-    <img src="https://git-scm.com/images/logos/git-logo.png" alt="Git Logo" width="40" height="40">
+    <img src="[https://git-scm.com/images/logos/git-logo.png](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)" alt="Git Logo" width="40" height="40">
   </a>
 
 
