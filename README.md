@@ -18,7 +18,6 @@ The LTPAQ is an interviewer-administered recall questionnaire used to estimate r
 
 
 ## Languages and Tools
-<div style="text-align: center;">
 
    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
@@ -29,7 +28,6 @@ The LTPAQ is an interviewer-administered recall questionnaire used to estimate r
      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="git" width="70" height="70"/> 
    </a> 
-</div>
 
 ## Previous requirements
 Ensure the following prerequisites are met before proceeding:
