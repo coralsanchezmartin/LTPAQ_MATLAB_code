@@ -31,7 +31,7 @@ The LTPAQ is an interviewer-administered recall questionnaire used to estimate r
 &nbsp; &nbsp; &nbsp;
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="git" width="60" height="80"/> 
+   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="git" width="60" height="40"/> 
 </a>
 </p>
   
