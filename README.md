@@ -23,10 +23,10 @@ The LTPAQ is an interviewer-administered recall questionnaire used to estimate r
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" style="margin-left: 20px;"/> 
    </a>
    <a href="https://www.microsoft.com/es/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="40" height="40" style="margin-left: 40px;"/> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="40" height="40" style="margin-left: 80px;"/> 
    </a> 
      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="git" width="70" height="70" style="margin-left: 60px;"/> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="git" width="70" height="70" style="margin-left: 100px;"/> 
    </a> 
 </p>
 
