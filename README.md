@@ -38,7 +38,7 @@ The LTPAQ is an interviewer-administered recall questionnaire used to estimate r
 ## Previous requirements
 Ensure the following prerequisites are met before proceeding:
 
-1. Install [Git (tutorials for Mac, Windows, and Linux users.)](https://gist.github.com/derhuerst/1b15ff4652a867391f03)
+1. Install [Git (tutorials for Mac, Windows, and Linux users).](https://gist.github.com/derhuerst/1b15ff4652a867391f03)
 
 2. Have a terminal emulator installed. For Mac users, the "Terminal" application should be pre-installed by default. Windows users will have either "Windows PowerShell" or "Command Prompt" available.
 
