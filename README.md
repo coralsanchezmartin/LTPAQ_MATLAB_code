@@ -52,7 +52,7 @@ Brief instructions on how to install and set up the project.
 
 1. Open the terminal emulator on your desktop.
 
-2. Change the directory to the place you’d like the files to be stored. You can do this by entering “cd” in the command line followed by the file path. For example, we can store the files on the desktop by typing “cd desktop”.
+2. Change the directory to the place you’d like the files to be stored. You can do this by entering “cd” in the command line followed by the file path. For example, we can store the files on the desktop by typing “cd desktop”. Click enter to submit the command.
 
 ```bash
 
