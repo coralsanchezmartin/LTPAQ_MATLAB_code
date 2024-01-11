@@ -59,9 +59,11 @@ Brief instructions on how to install and set up the project.
 cd desktop
 
 ```
-![Screenshot 2024-01-11 104835](https://github.com/coralsanchezmartin/LTPAQ_MATLAB_code/assets/74832205/d0dd45f0-7f73-4c62-a154-985b5bf4b16a)
+Once you submit the command you’ll see something like the image below:
+![image](https://github.com/coralsanchezmartin/LTPAQ_MATLAB_code/assets/74832205/c5b79583-4478-49b2-9236-2860d7de2f88)
 
-3. Once you’ve navigated to the desired location, clone the repository to your local machine, typing “git clone” followed by the link of the Github repository:
+
+3. Once you’ve navigated to the desired location, clone the repository to your local machine, typing “git clone” followed by the link to the GitHub repository:
 
 ```bash
 
