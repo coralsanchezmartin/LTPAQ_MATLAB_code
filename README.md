@@ -64,7 +64,7 @@ Once you submit the command you’ll see something like the image below:
 ![image](https://github.com/coralsanchezmartin/LTPAQ_MATLAB_code/assets/74832205/c5b79583-4478-49b2-9236-2860d7de2f88)
 
 
-3. Once you’ve navigated to the desired location, clone the repository to your local machine, typing “git clone” followed by the link to the GitHub repository:
+3. Now that you are in the desired location, clone the repository to your local machine, typing “git clone” followed by the link to the GitHub repository:
 
 ```bash
 
