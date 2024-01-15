@@ -63,7 +63,6 @@ Once you submit the command you’ll see something like the image below:
 
 ![image](https://github.com/coralsanchezmartin/LTPAQ_MATLAB_code/assets/74832205/c5b79583-4478-49b2-9236-2860d7de2f88)
 
-
 3. Now that you are in the desired location, clone the repository to your local machine, typing “git clone” followed by the link to the GitHub repository:
 
 ```bash
@@ -77,7 +76,6 @@ git clone https://github.com/micoralita/LTPAQ_MATLAB_code.git
 5. Open MATLAB and navigate to the cloned directory.
 
 ![Picture1](https://github.com/coralsanchezmartin/LTPAQ_MATLAB_code/assets/74832205/585a10eb-12da-4586-8521-27aeba0b2b85)
-
 
 
 6. Run the main script by copying and pasting the following command into the Command Window:
