@@ -52,7 +52,7 @@ Brief instructions on how to install and set up the project.
 
 1. Open the terminal emulator on your desktop.
 
-2. Change the directory to the place you’d like the files to be stored. You can do this by entering “cd” in the command line followed by the file path. For example, we can store the files on the desktop by typing “cd desktop”. Click enter to submit the command.
+2. Change the directory to the place you’d like the files to be stored. You can do this by entering “cd” in the command line followed by the file path. For example, we can store the files on the desktop by typing "cd desktop". Click enter to submit the command.
 
 ```bash
 
@@ -76,7 +76,10 @@ git clone https://github.com/micoralita/LTPAQ_MATLAB_code.git
 
 5. Open MATLAB and navigate to the cloned directory.
 
-6. Run the main script:
+![Picture1](https://github.com/coralsanchezmartin/LTPAQ_MATLAB_code/assets/74832205/625e6afe-1772-48c5-a14e-62b7ea86b6c8)
+
+
+6. Run the main script by copying and pasting the following command into the Command Window:
 
 ```matlab
 
