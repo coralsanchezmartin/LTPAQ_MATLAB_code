@@ -76,7 +76,7 @@ git clone https://github.com/micoralita/LTPAQ_MATLAB_code.git
 
 5. Open MATLAB and navigate to the cloned directory.
 
-![Picture1](https://github.com/coralsanchezmartin/LTPAQ_MATLAB_code/assets/74832205/625e6afe-1772-48c5-a14e-62b7ea86b6c8)
+![Picture1](https://github.com/coralsanchezmartin/LTPAQ_MATLAB_code/assets/74832205/585a10eb-12da-4586-8521-27aeba0b2b85)
 
 
 6. Run the main script by copying and pasting the following command into the Command Window:
