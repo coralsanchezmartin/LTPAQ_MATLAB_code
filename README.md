@@ -78,7 +78,7 @@ git clone https://github.com/micoralita/LTPAQ_MATLAB_code.git
 ![Picture1](https://github.com/coralsanchezmartin/LTPAQ_MATLAB_code/assets/74832205/585a10eb-12da-4586-8521-27aeba0b2b85)
 
 
-6. Run the main script by copying and pasting the following command into the Command Window:
+6. Run the main script by copying and pasting the following command into the "Command Window":
 
 ```matlab
 
