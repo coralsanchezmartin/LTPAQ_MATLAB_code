@@ -27,7 +27,7 @@ function [met_values] = code_jobs_to_mets_funct(t, Job_list)
             % first time this relational operation is true (look for z in
             % job_list.Code_JOB table and store that index in a new variable.
 
-            met_val = Job_list.METLevel(met_index); % Gets value met_index
+            met_val = Job_list.METs_Value(met_index); % Gets value met_index
             % extracted from table (Job_list) variable named METLevel2011
 
             current_met = [current_met met_val]; % saves each corresponding met value

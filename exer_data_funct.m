@@ -26,7 +26,7 @@ for i = 1:height(Ex_data) % iterate on each subject (row)
         % first time this relational operation is true (look for x in
         % Exercise_list.Code_EXERCISE table and store that index in a new variable.
 
-        met_val = Exercise_list.METLevel2011(met_index); % Gets value met_index
+        met_val = Exercise_list.METs_Value(met_index); % Gets value met_index
         % extracted from table (Exercise_list) variable named METLevel2011
         
 
