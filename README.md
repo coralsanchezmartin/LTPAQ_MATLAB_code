@@ -101,7 +101,7 @@ To initialize the LTPAQ tool with your questionnaire transcript data, follow the
 
 1. Locate the designated Excel spreadsheet: **DB_LTPAQ.xlsx** in the project directory.
 
-2. Input your questionnaire transcript data into this spreadsheet. The file already includes three subjects with sample data as an illustrative example.
+2. Input your questionnaire transcript data into this spreadsheet. The file already includes two subjects with sample data as an illustrative example.
 
    **Note**: The headers in **DB_LTPAQ.xlsx** are locked with the password "ltpaq" to maintain a consistent structure. It is crucial to ensure that your data adheres to this predefined structure for seamless processing.
 
