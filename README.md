@@ -132,7 +132,8 @@ run LTPAQ_main_script.m
 
 This will initiate the LTPAQ tool, allowing you to proceed with the analysis of your questionnaire transcript data. Ensure that you have set up your questionnaire data and METs equivalences data as outlined in the previous sections for optimal results.
 
-
+### Results:
+After running the LTPAQ tool, the results will be saved in an Excel file within the project's **Results** directory. The file will be named with the current date and time to ensure uniqueness and ease of identification. Open the file to view the processed data, which includes lifetime METs and total METs for each category (work life, household, exercise).
 
 By adhering to these instructions, you ensure that the LTPAQ tool processes your data accurately and efficiently.
 
